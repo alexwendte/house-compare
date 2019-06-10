@@ -1,0 +1,139 @@
+[
+  {
+    "address": "1117 Rosemont place Andover KS 67002",
+    "images": [],
+    "lat": 37.694649,
+    "long": -97.122063,
+    "fov": 40,
+    "heading": 100,
+    "description": "Brick: Graige"
+  },
+  {
+    "address": "1102 waterview Andover KS 67002",
+    "images": [
+      "https://ap.rdcpix.com/1921046886/66f5fe3db5a9fdcb4f082769a9db6e0al-m0xd-w1020_h770_q80.jpg",
+      "https://ap.rdcpix.com/1686000094/66f5fe3db5a9fdcb4f082769a9db6e0al-m1xd-w1020_h770_q80.jpg",
+      "https://ap.rdcpix.com/973802449/66f5fe3db5a9fdcb4f082769a9db6e0al-m2xd-w1020_h770_q80.jpg"
+    ],
+    "lat": 37.698582,
+    "long": -97.123642,
+    "fov": 40,
+    "heading": -10,
+    "description": "Brick: Washed out red"
+  },
+  {
+    "address": "732 Deerfield circle Andover KS 67002",
+    "images": [],
+    "lat": 37.699329,
+    "long": -97.121712,
+    "fov": 40,
+    "heading": 100,
+    "description": "Brick: Washed out red"
+  },
+  {
+    "address": "736 Deerfield circle Andover KS 67002",
+    "images": [],
+    "lat": 37.699581,
+    "long": -97.121712,
+    "fov": 40,
+    "heading": 120,
+    "description": "Brick: really Washed out red"
+  },
+  {
+    "address": "738 Deerfield circle Andover KS 67002",
+    "images": [],
+    "lat": 37.699848,
+    "long": -97.121681,
+    "fov": 40,
+    "heading": 80,
+    "description": "Brick: Dark red"
+  },
+  {
+    "address": "815 fairoaks place Andover KS 67002",
+    "images": [
+      "https://photos.zillowstatic.com/p_h/ISe4gzlz6xbh6d1000000000.jpg"
+    ],
+    "lat": 37.700119,
+    "long": -97.125778,
+    "fov": 40,
+    "heading": 0,
+    "description": "Siding: Beige"
+  },
+  {
+    "address": "817 fairoaks place Andover KS 67002",
+    "images": [
+      "https://p.rdcpix.com/v01/lea38e243-m0xd-w1020_h770_q80.jpg",
+      "https://p.rdcpix.com/v01/lea38e243-m1xd-w1020_h770_q80.jpg"
+    ],
+    "lat": 37.7001027,
+    "long": -97.1242385,
+    "fov": 40,
+    "heading": -90,
+    "description": "our favorite washed out brick"
+  },
+  {
+    "address": "826 fairoaks court Andover KS 67002",
+    "images": [],
+    "lat": 37.7008109,
+    "long": -97.1240449,
+    "fov": 40,
+    "heading": 165,
+    "description": "Siding and Trim: Favorite beige"
+  },
+  {
+    "address": "823 crescent lakes circle Andover KS 67002",
+    "images": [],
+    "lat": 37.7008041,
+    "long": -97.1299999,
+    "fov": 40,
+    "heading": 190,
+    "description": "Siding and Trim: Favorite very light gray"
+  },
+  {
+    "address": "607 crescent lakes drive Andover KS 67002",
+    "images": ["https://p.rdcpix.com/v01/l198a3143-m0xd-w1020_h770_q80.jpg"],
+    "lat": 37.700062,
+    "long": -97.128967,
+    "fov": 40,
+    "heading": 100,
+    "description": "Siding: Darker gray"
+  },
+  {
+    "address": "824 crescent lakes place Andover KS 67002",
+    "images": [],
+    "lat": 37.7001446,
+    "long": -97.131706,
+    "fov": 40,
+    "heading": 88,
+    "description": "Brick: lighter red"
+  },
+  {
+    "address": "848 crescent lakes place Andover KS 67002",
+    "images": ["https://p.rdcpix.com/v01/l670b2045-m0xd-w1020_h770_q80.jpg"],
+    "lat": 37.7009041,
+    "long": -97.1319194,
+    "fov": 40,
+    "heading": 27,
+    "description": "Brick: lighter brick"
+  },
+  {
+    "address": "1406 Aster Andover KS 67002",
+    "images": [
+      "https://ap.rdcpix.com/12246623/3fba96da2630db31d0fadfea8e12018al-m0xd-w1020_h770_q80.jpg"
+    ],
+    "lat": 37.71563,
+    "long": -97.120018,
+    "fov": 40,
+    "heading": 0,
+    "description": "Brick and Trim: Really pretty"
+  },
+  {
+    "address": "1113 Rosemont place Andover KS 67002",
+    "images": [],
+    "lat": 37.69442,
+    "long": -97.122772,
+    "fov": 40,
+    "heading": 0,
+    "description": "Brick: Red and Gray"
+  }
+]
